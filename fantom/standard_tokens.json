@@ -1,0 +1,14 @@
+{
+  "errorCode": 0,
+  "reason": "获取成功",
+  "data": [
+    {
+      "name": "FTM",
+      "protocol": "20",
+      "symbol": "FTM",
+      "address": "",
+      "decimals": 18,
+      "logoURI": "https://hashpayinfo.github.io/fantom/ftm/logo.png"
+    }
+  ]
+}
