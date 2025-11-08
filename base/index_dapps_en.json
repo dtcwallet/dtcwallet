@@ -27,8 +27,8 @@
                     {
                         "name": "Hot",
                         "des": null,
-                        "url": "https://blockscout.com/xdai/mainnet",
-                        "logo": "https://basescan.org/assets/base/images/svg/logos/logo-light.svg?v=25.10.5.0/"
+                        "url": "https://basescan.org",
+                        "logo": "https://dtcwallet.github.io/base/dapps/etherscan.io.png"
                     }
                 ]
             }
